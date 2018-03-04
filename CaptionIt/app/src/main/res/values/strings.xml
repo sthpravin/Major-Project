@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Caption It</string>
+    <string name="labelTakePhoto">Take Photo</string>
+    <string name="labelBrowsePhoto">Choose Existing Image</string>
+    <string name="label1">Take a Photo</string>
+    <string name="label2">Browse a Photo</string>
+    <string name="howToUse">How to Use</string>
+    <string name="faq">FAQs</string>
+    <string name="about">About</string>
+
+</resources>
